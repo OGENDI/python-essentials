@@ -7,3 +7,4 @@ print(product)
 
 date.today()
 print(date.today())
+print('The date for today is: ' + str(date.today()))
